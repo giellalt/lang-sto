@@ -1,14 +1,14 @@
-!!!Free and Open source Finnish analyser gtsvn-fi
+!!!Free and Open source Nakoda analyser gtsvn-sto
 
-;Authors: Divvun and Giellatekno teams, Aajege, community members
+;Authors: Divvun and Giellatekno teams, U Alberta, community members
 ;Software version: 2012
 ;Documentation license: GNU GFDL
 ;SVN Revision: $Revision: 68217 $
 ;SVN Date: $Date: 2013-01-16 11:31:33 +0200 (Wed, 16 Jan 2013) $
 
-!!!GTSVN-sma
+!!!GTSVN-sto
 
-This is free and open source South Sámi morphology.
+This is free and open source Nakoda or Stoney morphology.
 
            !!!Stoney morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Stoney LANGUAGE.
@@ -18,7 +18,7 @@ INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Stoney LANGUAGE.
 
 !!Analysis symbols
 ----------------
-The morphological analyses of wordforms of UNDEFINED language are presented
+The morphological analyses of wordforms of Nakoda or Stoney language are presented
 in this system in terms of following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
