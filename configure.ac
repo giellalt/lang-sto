@@ -121,23 +121,9 @@ gt_PROG_VISLCG3
 # Tests and sets up XML to lexc conversion
 gt_PROG_SAXON
 
-<<<<<<< .working
-AC_PATH_PROG([AWK],     [gawk],    [], [$PATH$PATH_SEPARATOR$with_awk])
-AC_PATH_PROG([FORREST], [forrest], [], [$PATH$PATH_SEPARATOR$with_forrest])
-AC_MSG_CHECKING([whether we can enable in-source documentation building])
-AS_IF([test "x$AWK" != x], [
-    AS_IF([test "x$JV" != xfalse], [
-    	AS_IF([test "x$FORREST" != x], [gt_prog_docc=yes], [gt_prog_docc=no])
-    ],[gt_prog_docc=no])
-],[gt_prog_docc=no])
-AC_MSG_RESULT([$gt_prog_docc])
-AM_CONDITIONAL([CAN_DOCC], [test "x$gt_prog_docc" != xno])
-
-=======
 # Check for SubEthaEdit/see
 AC_PATH_PROG([SEE], [see], [], [$PATH$PATH_SEPARATOR$with_see])
 
->>>>>>> .merge-right.r92063
 # Adds --enable/disable-morphology, -speller, -hyphenation, etc.
 # This should be the last step so that all program variables are available
 # to the enable checks
