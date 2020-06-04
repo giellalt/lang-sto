@@ -1,0 +1,9 @@
+name = "Stoney"
+version = "0.1.0"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.sto"
+
+[windows]
+system_product_code = "93496C2D-DE2A-4655-8833-2CE4B5B83335"
+msoffice_product_code = "4A727A95-491A-48A8-A83F-8ACFE815E24B"
