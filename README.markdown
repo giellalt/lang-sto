@@ -10,7 +10,8 @@ authors named in the AUTHORS file are available to grant other licencing
 choices.
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-sto)](https://github.com/giellalt/lang-sto/issues)
- [![Build Status](https://github.com/giellalt/lang-sto/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-sto/actions)
+[![Build Status](https://github.com/giellalt/lang-sto/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-sto/actions)
+[![License](https://img.shields.io/github/license/giellalt/template-lang-sto)](https://raw.githubusercontent.com/giellalt/lang-sto/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-sto)
 for the Stoney language by using the [Divvun Installer](http://divvun.no)
