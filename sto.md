@@ -1,29 +1,26 @@
-Noun inflection
-The Stoney language nouns inflect in cases.
+Nouns
+Nouns in the Stoney language are things.
+
+
+Numerals
+Numerals in the Stoney language are numbers.
+
+
+Verbs
+Verbs in the Stoney language are actions.
+
+
+Prefixes
+Prefixes in the Stoney language are bound to beginning of other words.
 
 
 
-Proper noun inflection
-The Stoney language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
+Adjectives
+Adjectives in the Stoney language describe things.
 
 
-
-
-# Symbol affixes
-
-
-
-
-
-Adjective inflection
-The Stoney language adjectives compare.
-
-
-
-Verb inflection
-The Stoney language verbs inflect in persons.
-
+Pronouns
+Pronouns in the Stoney language are references to things.
 
 
 =================================== !
@@ -49,6 +46,34 @@ The Stoney morphophonological/twolc rules file !
 * examples:*
 
 * examples:*
+
+# Symbol affixes
+
+
+
+
+
+Noun inflection
+The Stoney language nouns inflect in cases.
+
+
+
+Proper noun inflection
+The Stoney language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+Verb inflection
+The Stoney language verbs inflect in persons.
+
+
+
+Adjective inflection
+The Stoney language adjectives compare.
+
+
+
 
 # Stoney morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Stoney LANGUAGE.
@@ -129,29 +154,20 @@ given the proper use of these flags.
 The word forms in Stoney language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
-Nouns
-Nouns in the Stoney language are things.
-
-
-Prefixes
-Prefixes in the Stoney language are bound to beginning of other words.
 
 
 
-Pronouns
-Pronouns in the Stoney language are references to things.
+We describe here how abbreviations are in Stoney are read out, e.g.
+for text-to-speech systems.
 
+For example:
 
-Adjectives
-Adjectives in the Stoney language describe things.
-
-
-Verbs
-Verbs in the Stoney language are actions.
-
-
-Numerals
-Numerals in the Stoney language are numbers.
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
 
@@ -207,20 +223,4 @@ Numerals in the Stoney language are numbers.
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
-
-
-
-
-We describe here how abbreviations are in Stoney are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
 
