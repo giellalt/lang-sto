@@ -5,9 +5,11 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-sto)](https://github.com/giellalt/lang-sto/issues)
 [![Build status](https://github.com/giellalt/lang-sto/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-sto/actions)
 
-This page documents the work on the **Stoney language model**. 
+This page documents the work on the **Stoney language model**. Here, nothing has been done.
 
 # Project documentation
+
+* [Alberta Language Technology Lab|http://altlab.artsrn.ualberta.ca/]
 
 * Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
 
