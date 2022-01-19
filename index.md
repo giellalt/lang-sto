@@ -9,7 +9,7 @@ This page documents the work on the **Stoney language model**. Here, nothing has
 
 # Project documentation
 
-* [Alberta Language Technology Lab|http://altlab.artsrn.ualberta.ca/]
+* [Alberta Language Technology Lab](http://altlab.artsrn.ualberta.ca/)
 
 * Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
 
