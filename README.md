@@ -30,7 +30,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/stodoc/index.html>
+- [Language specific documentation](https://giellalt.github.io/lang-sto/)
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
