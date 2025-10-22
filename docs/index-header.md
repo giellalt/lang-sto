@@ -4,7 +4,7 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-sto%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-sto)](https://github.com/giellalt/lang-sto/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-sto)](https://github.com/giellalt/lang-sto/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-sto/main/badge.svg)](https://github.com/giellalt/lang-sto/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-sto?label=CI)](https://builds.giellalt.org/pipelines/lang-sto/builds/latest)
 
 This page documents the work on the **Stoney language model**. Here, nothing has been done.
 
