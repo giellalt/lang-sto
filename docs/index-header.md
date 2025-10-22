@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-sto)](https://github.com/giellalt/lang-sto/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-sto)](https://github.com/giellalt/lang-sto/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-sto?label=CI)](https://builds.giellalt.org/pipelines/lang-sto/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/ston1242)
 
 This page documents the work on the **Stoney language model**. Here, nothing has been done.
 
