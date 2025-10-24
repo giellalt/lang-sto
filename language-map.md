@@ -1,0 +1,15 @@
+```geojson
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stoney",
+    "radius": 200,
+    "marker-color": "#ff4444",
+    "marker-size": "large"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-114.984, 51.1939]
+  }
+}
+```
